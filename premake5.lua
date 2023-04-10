@@ -22,6 +22,8 @@ workspace "FlappyBird2D"
     -- 서드파티 라이브러리 경로를 설정합니다.
     thirdparty="%{wks.location}/../ThirdParty"
 
+    -- 시작 프로젝트를 게임 프로젝트로 설정합니다.
+    startproject "Game"
 
     -- 오디오 모듈 프로젝트입니다.
     project "AudioModule"
