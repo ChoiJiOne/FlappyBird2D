@@ -4,13 +4,13 @@
 
 ## Platform
 
-`FlappyBird2D v0.0`은 `Windows Platform`만 지원합니다.
+`FlappyBird2D` *v0.0*은 `Windows Platform`만 지원합니다.
 <br><br>
 
 
 ## Requirements
 
-`FlappyBird2D v0.0`를 유지 보수를 수행하기 위한 요구 사항은 다음과 같습니다.
+`FlappyBird2D` *v0.0*를 유지 보수를 수행하기 위한 요구 사항은 다음과 같습니다.
 - [git](https://git-scm.com/)
 - [python 3.x](https://www.python.org/downloads/)
 - [Visual Studio 2019 이상](https://visualstudio.microsoft.com/)
@@ -19,7 +19,7 @@
 
 ## Language
 
-`FlappyBird2D v0.0`은 `C#` 으로 구현되었습니다.  
+`FlappyBird2D` *v0.0*은 `C#` 으로 구현되었습니다.  
 > `Windows`에 특화된 코드도 존재하므로, `Linux`나 `MacOSX`에서는 빌드되지 않습니다.
 
 <br><br>
@@ -27,7 +27,7 @@
 
 ## Source
 
-`FlappyBird2D v0.0`의 소스코드를 얻기 위해서는 `CMD`에 다음 명령어를 입력하면 됩니다.
+`FlappyBird2D` *v0.0*의 소스코드를 얻기 위해서는 `CMD`에 다음 명령어를 입력하면 됩니다.
 ```
 git clone https://github.com/ChoiJiOne/FlappyBird2D --single-branch -b v0.0
 ```
@@ -36,7 +36,7 @@ git clone https://github.com/ChoiJiOne/FlappyBird2D --single-branch -b v0.0
 
 ## Structure
 
-`FlappyBird2D v0.0`의 프로젝트 구조는 다음과 같습니다.
+`FlappyBird2D` *v0.0*의 프로젝트 구조는 다음과 같습니다.
 ```
 ├─AudioModule
 │  ├─Source
@@ -55,7 +55,7 @@ git clone https://github.com/ChoiJiOne/FlappyBird2D --single-branch -b v0.0
 
 ## Script
 
-`FlappyBird2D v0.0`은 다양한 자동화 스크립트 기능을 지원합니다.  
+`FlappyBird2D` *v0.0*은 다양한 자동화 스크립트 기능을 지원합니다.  
 
 | 스크립트 | 기능 |
 |:---|:---|
