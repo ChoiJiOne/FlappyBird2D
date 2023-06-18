@@ -11,7 +11,7 @@
 
 ## Requirements
 
-`FlappyBird2D` *v0.0*를 유지 보수를 수행하기 위한 요구 사항은 다음과 같습니다.
+`FlappyBird2D` *v1.0*를 유지 보수를 수행하기 위한 요구 사항은 다음과 같습니다.
 - [git](https://git-scm.com/)
 - [python 3.x](https://www.python.org/downloads/)
 - [Visual Studio 2019 이상](https://visualstudio.microsoft.com/)
