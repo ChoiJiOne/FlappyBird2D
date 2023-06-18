@@ -1,5 +1,6 @@
 # FlappyBird2D *v1.0*
 - 2D FlappyBird 게임 구현 프로젝트의 *v1.0*입니다.
+<br><br>
 
 
 ## Platform
@@ -31,6 +32,7 @@
 ```
 git clone https://github.com/ChoiJiOne/FlappyBird2D --single-branch -b v1.0
 ```
+
 <br><br>
 
 
