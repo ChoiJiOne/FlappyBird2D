@@ -139,6 +139,7 @@ git clone https://github.com/ChoiJiOne/FlappyBird2D --single-branch -b v1.0
 `CrashReportCollector`는 크래시 발생 시 크래시 덤프 파일과 로그 파일을 수집하는 기능입니다.
 
 > ※ CrashReportCollector은 현재 불안정기능입니다. 로컬에서는 잘 동작하니 로컬에서만 사용해주세요.
+
 <br><br>
 
 
