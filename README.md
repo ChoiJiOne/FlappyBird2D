@@ -124,12 +124,6 @@ git clone https://github.com/ChoiJiOne/FlappyBird2D --single-branch -b v0.0
 <br><br>
 
 
-## Download
-
-즉시 플레이 가능한 실행 파일은 [여기](https://github.com/ChoiJiOne/FlappyBird2D/releases/tag/v0.0)에서 받을 수 있습니다.
-<br><br>
-
-
 ## Bug
 
 플레이 혹은 개발 중 버그가 발생할 경우, [여기](https://github.com/ChoiJiOne/FlappyBird2D/issues) 에 제보해주시면 됩니다.
